@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485055211565",
+    "project_id": "notificacionesv4nina",
+    "storage_bucket": "notificacionesv4nina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485055211565:android:6699916763adf76b31f0a4",
+        "android_client_info": {
+          "package_name": "com.miempresa.notificacionesv4nina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485055211565-plpi7q63pf6mff4q3hnpkp6f2668u95n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqr5J7SQC0DIXNGCHHxttfCfmqV8aToF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485055211565-plpi7q63pf6mff4q3hnpkp6f2668u95n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:background="@color/teal_200"
+        android:gravity="center"
+        android:text="Notificaciones"
+        android:textColor="#546E7A"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="526dp"
+        app:srcCompat="@drawable/imagen" />
+
+    <Button
+        android:id="@+id/btnVerNotificaion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crear notificacion"
+        android:onClick="notificacionOreo"/>
+
+</LinearLayout>
